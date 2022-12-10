@@ -13,13 +13,6 @@
   <!--B-->
   <!--C-->
   <lexeme>
-    <grapheme>干一行</grapheme>
-    <phoneme>gan 4 yi 1 hang 2</phoneme>
-  </lexeme>
-    <grapheme>爱一行</grapheme>
-    <phoneme>ai 4 yi 1 hang 2</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>朱重八</grapheme>
     <phoneme>zhu 1 chong 2 ba 1</phoneme>
   </lexeme>
@@ -55,6 +48,13 @@
   <lexeme>
     <grapheme>布行</grapheme>
     <phoneme>bu 4 hang 2</phoneme>
+  </lexeme>
+  <lexeme>
+   <grapheme>干一行</grapheme>
+   <phoneme>gan 4 yi 1 hang 2</phoneme>
+  </lexeme>
+   <grapheme>爱一行</grapheme>
+   <phoneme>ai 4 yi 1 hang 2</phoneme>
   </lexeme>
   <!--I-->
   <!--J-->
